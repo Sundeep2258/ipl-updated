@@ -1,0 +1,12 @@
+.blog-list-container {
+  background-image: linear-gradient(to bottom #13418b, #5755a7, #4f5db0);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+}
+
+h1 {
+  color: black;
+}

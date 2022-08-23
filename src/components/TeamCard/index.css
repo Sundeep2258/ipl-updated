@@ -1,0 +1,21 @@
+.container-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  border: 4px;
+  background-color: #ffffff33;
+  margin: 10px;
+  border-radius: 4px;
+}
+.team-logo {
+  width: 400px;
+  align-self: center;
+}
+.team-head {
+  color: #fff;
+  font-size: 20px;
+  margin-left: 15px;
+  text-decoration: none;
+}
